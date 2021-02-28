@@ -24,4 +24,6 @@
 
 2.1 Floating concept
 
+2.2 Positioning concept
+
     Coming Soon.....
