@@ -26,4 +26,6 @@
 
 2.2 Positioning concept
 
+2.3 Display concept
+
     Coming Soon.....
