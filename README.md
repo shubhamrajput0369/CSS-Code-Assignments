@@ -30,4 +30,6 @@
 
 2.4 Text-Decoration concept
 
+2.5 Text-Align tags
+
     Coming Soon.....
