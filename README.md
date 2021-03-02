@@ -32,4 +32,6 @@
 
 2.5 Text-Align tags
 
+2.6 Text-Fonts tags
+
     Coming Soon.....
