@@ -34,4 +34,6 @@
 
 2.6 Text-Fonts tags
 
+2.7 Text-Effects tags
+
     Coming Soon.....
