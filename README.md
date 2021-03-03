@@ -36,4 +36,8 @@
 
 2.7 Text-Effects tags
 
+2.8 Image Sprites tags
+
+2.9 Image Opacity tags
+
     Coming Soon.....
