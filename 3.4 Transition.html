@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Div and Span</title>
+        <style>
+            .Incep{
+                background-color:maroon;
+                font-size:250%;
+                color:white;
+                height:100px;
+                width:100px;
+                transition: width 1s;
+            }
+            .Incep:hover{
+                width:300px;
+                height:50px;
+            }
+            .Rajput{
+                background-color:magenta;
+                font-size:250%;
+                height:100px;
+                width:400px;
+                transition:width 1s, height 1s, transform 1s, background-color 1s;
+            }
+            .Rajput:hover{
+                background-color:aqua;
+                width:600px;
+                height:400px;
+                transform: rotateX(180deg);
+            }
+            .Inception{
+                background-color:#c6e584;
+                font-size:250%;
+                height:100px;
+                width:auto;
+            }
+            .mlt{
+                background-color:yellow;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <div class="Incep"><p>Incep</p></div>
+        <div class="Rajput"><p>Rajput Inc. <span class="mlt";>multinational</span> company</p></div> 
+        <div class="Inception"><p>Inception</p></div>
+    </body>
+</html>
